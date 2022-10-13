@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuopcAgregar"
+        android:title="@string/agregar"
+        app:showAsAction="always"
+        android:icon="@drawable/add"/>
+
+    <item
+        android:id="@+id/menuopcEditar"
+        android:title="Editar"
+        app:showAsAction="always"
+        android:icon="@drawable/edit"
+        />
+
+
+    <item
+        android:id="@+id/menuopcEliminar"
+        android:title="Borrar"
+        app:showAsAction="always"
+        android:icon="@drawable/delete"/>
+
+    <item
+        android:id="@+id/menuopcListar"
+        android:title="Listar"
+        app:showAsAction="always"
+        android:icon="@drawable/list"/>
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="datos">Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="lista">Lista de elementos</string>
+    <string name="agregar">Agregar</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="modificar">Modificar</string>
+    <string name="listaElementos">Lista de elementos</string>
+</resources>
